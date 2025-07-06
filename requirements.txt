@@ -1,0 +1,32 @@
+# Gmail Email Sender Requirements
+# Core dependencies for automated email sending
+
+# Selenium WebDriver and automation
+seleniumbase>=4.15.0
+selenium>=4.15.0
+
+# Data manipulation and Excel handling
+pandas>=1.5.0
+openpyxl>=3.0.0
+
+# Interactive menu system
+cutie>=0.2.2
+
+# Configuration file parsing
+configparser>=5.0.0
+
+# Standard library modules (included with Python)
+# re - Regular expressions
+# os - Operating system interface
+# sys - System-specific parameters and functions
+# time - Time-related functions
+# random - Random number generation
+# string - String operations
+# logging - Logging facility
+# platform - Platform identification
+# datetime - Date and time handling
+# functools - Higher-order functions and operations on callable objects
+# multiprocessing - Process-based parallelism
+
+# Optional: For enhanced browser automation
+# undetected-chromedriver>=3.5.0  # Uncomment if needed for additional stealth features
