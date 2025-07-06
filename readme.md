@@ -231,10 +231,6 @@ The script includes comprehensive error handling:
 4. Add tests if applicable
 5. Submit a pull request
 
-## License
-
-This project is provided as-is for educational purposes. Users are responsible for ensuring compliance with all applicable laws and regulations.
-
 ## Support
 
 For issues and questions:
@@ -245,7 +241,7 @@ For issues and questions:
 
 ## Changelog
 
-### v1.0 (2025-07-06)
+### v1.0 (2024-02-01)
 - Initial release
 - Multi-account Gmail automation
 - Parallel processing support
